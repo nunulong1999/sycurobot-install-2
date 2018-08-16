@@ -6,7 +6,7 @@ git fetch --tags
 git checkout final_2018
 cd ../../..
 cd src/rhoban/rhio/
-git pull
+git pull origin master
 git fetch --tags
 git checkout final_2018
 cd ../../..
